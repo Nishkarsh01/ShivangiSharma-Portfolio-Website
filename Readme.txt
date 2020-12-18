@@ -1,2 +1,1 @@
-
-# Shivangi Sharma- Portfolio Website
+# Shivangi Sharma
