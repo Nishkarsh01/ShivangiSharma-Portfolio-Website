@@ -5,7 +5,8 @@ This is a Responsive Portfolio Website made with Html, Css, Boostrap, Javascript
 > Nishkarsh Dubb and Shivangi Sharma
 
 ## Screenshots 📷
-![Website Screenshot](screenshots/)
+![Website Screenshot](screenshots/1.png)
+![Website Screenshot](screenshots/2.jpeg)
 
 ## Live Demo 
 
