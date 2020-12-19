@@ -39,7 +39,7 @@ a {
 }
 
 a:hover {
-  color: #35e888;
+  color: #eb4559;
   text-decoration: none;
 }
 
@@ -373,7 +373,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #4ceb95;
+  background: #eb4559;
   margin: 4px 10px;
 }
 
@@ -739,7 +739,7 @@ section .container {
 }
 
 .services .icon-box:hover .icon::before {
-  background: #35e888;
+  background: #eb4559;
 }
 
 .services .icon-box:hover h4 a,
@@ -880,7 +880,7 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #63eda3;
+  color: #eb4559;
 }
 
 .portfolio .portfolio-wrap:hover::before {
