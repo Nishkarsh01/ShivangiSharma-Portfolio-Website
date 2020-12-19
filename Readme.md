@@ -6,7 +6,6 @@ This is a Responsive Portfolio Website made with Html, Css, Boostrap, Javascript
 
 ## Screenshots 📷
 ![Website Screenshot](screenshots/1.png)
-![Website Screenshot](screenshots/2.jpeg)
 
 ## Live Demo 
 
