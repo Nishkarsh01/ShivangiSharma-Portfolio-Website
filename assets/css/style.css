@@ -1208,6 +1208,12 @@ section .container {
 
 .layer {
   background: rgba(0, 0, 0, 0.9);
-  padding: 2%;
+  padding: 1.4%;
+  border-radius: 0.5%;
+}
+
+.layer2 {
+  background: rgba(0, 0, 0, 0.9);
+  padding: 1%;
   border-radius: 0.5%;
 }
