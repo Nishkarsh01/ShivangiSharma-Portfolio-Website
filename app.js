@@ -1,4 +1,4 @@
-//req packages
+//req the packages
 const express = require('express');
 const bodyParser = require('body-parser');
 const ejs = require('ejs');
@@ -6,7 +6,7 @@ const mailgun = require('mailgun-js');
 const mongoose = require('mongoose');
 require('dotenv').config();
 
-//setting app to use express
+//setting up the app to use express
 const app = express();
 
 //setting up the view engine
