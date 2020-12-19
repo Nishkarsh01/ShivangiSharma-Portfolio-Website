@@ -1,0 +1,31 @@
+{
+  "name": "shivangisharma",
+  "version": "1.0.0",
+  "description": "shivangisharma portfolio website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishkarsh01/ShivangiSharma-Portfolio-Website.git"
+  },
+  "author": "nishkarshdubb",
+  "license": "ISC",
+  "engines": {
+    "node": "12.19.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Nishkarsh01/ShivangiSharma-Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/Nishkarsh01/ShivangiSharma-Portfolio-Website#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mailgun": "^0.5.0",
+    "mailgun-js": "^0.22.0",
+    "mongoose": "^5.11.8"
+  }
+}
