@@ -1,5 +1,5 @@
 # Shivangi Sharma- Portfolio Website
-This is a Responsive Portfolio Website made with Boostrap, Javascript, NodeJS, and ExpressJS.
+This is a Responsive Portfolio Website made with Html, Css, Boostrap, Javascript, jQuery, NodeJS, and ExpressJS.
 
 ## Developed By 
 > Nishkarsh Dubb and Shivangi Sharma
